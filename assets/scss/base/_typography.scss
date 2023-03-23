@@ -48,7 +48,7 @@
 @font-face {
 	font-family: 'Pretendard';
 	font-weight: 200;
-	src: local('Pretendard ExtraLight'), url(/assets/font/Pretendard-ExtraLight.woff2);
+	src: local('Pretendard ExtraLight'), url(/assets/font/Pretendard-ExtraLight.woff2) format('woff2');
 }
 
 @font-face {
@@ -60,30 +60,30 @@
 @font-face {
 	font-family: 'PP Neue Montreal';
 	font-weight: 400;
-	src: url(/assets/font/PPNeueMontreal-Regular.woff2);
+	src: url(/assets/font/PPNeueMontreal-Regular.woff2) format('woff2'); 
 }
 @font-face {
 	font-family: 'PP Neue Montreal';
 	font-weight: 500;
-	src: url(/assets/font/PPNeueMontreal-Medium.woff2);
+	src: url(/assets/font/PPNeueMontreal-Medium.woff2) format('woff2');
 }
 
 @font-face {
 	font-family:'PP Editoria lNew';
-	src: url(/assets/font/PPEditorialNew-Regular.woff2);
+	src: url(/assets/font/PPEditorialNew-Regular.woff2) format('woff2');
 	font-weight: 400;
 }
 @font-face {
 	font-family:'PP Editoria lNew';
-	src: url(/assets/font/PPEditorialNew-Light.woff2);
+	src: url(/assets/font/PPEditorialNew-Light.woff2) format('woff2');
 	font-weight: 300;
 }
 @font-face {
 	font-family:'PP Editoria lNew serif';
-	src: url(/assets/font/PPEditorialNew-LightItalic.woff2);
+	src: url(/assets/font/PPEditorialNew-LightItalic.woff2) format('woff2');
 	font-weight: 300;
 }
 @font-face {
 	font-family:'PP Editoria lNew serif';
-	src: url(/assets/font/PPEditorialNew-Italic.woff2);
+	src: url(/assets/font/PPEditorialNew-Italic.woff2) format('woff2');
 }
