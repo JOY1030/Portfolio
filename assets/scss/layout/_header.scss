@@ -52,7 +52,7 @@ $red:#db4c44;
          > *{
             transform: translateY(-100%);
             opacity: 0;
-            @include mobile{
+            @include tablet{
                opacity: 1;
                transform: translateY(0);
             }

@@ -5,7 +5,7 @@ $(function(){
   
 let start = gsap.matchMedia();
 
-start.add("(min-width:767px)", () => {
+start.add("(min-width:1025px)", () => {
  
   gsap.to('.header-bottom > *',{
     yPercent:100,

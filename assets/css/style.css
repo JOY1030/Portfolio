@@ -241,7 +241,7 @@ body {
   transform: translateY(-100%);
   opacity: 0;
 }
-@media (max-width: 767px) {
+@media (max-width: 1024px) {
   .header .header-bottom > * {
     opacity: 1;
     transform: translateY(0);
@@ -614,7 +614,7 @@ body {
   height: 100%;
   top: 0;
   left: 0;
-  background-color: rgba(4, 30, 0, 0.7);
+  background-color: rgba(4, 30, 0, 0.5);
   color: #fff;
   padding: 2rem;
   transition: all 0.3s linear;
